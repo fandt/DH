@@ -1,4 +1,7 @@
-<p align="center"> ## Break into Private Vault</p>
+<p align="center"> Break into Private Vault
+  
+  This will gain you access to view the contents of this person's private vault for 12 hours. You will not be able to screenshot or download any of the contents.</p>
+
 
 You can use the [editor on GitHub](https://github.com/fandt/DH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
