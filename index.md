@@ -1,6 +1,8 @@
-<p align="center"> Break into Private Vault
+<p align="center"> _Break into Private Vault_
   
-  This will gain you access to view the contents of this person's private vault for 12 hours. You will not be able to screenshot or download any of the contents.</p>
+  This will gain you access to view the contents of this person's private vault for 12 hours. You will not be able to screenshot or download any of the contents.
+  
+  _The cost for this hack is $5_</p>
 
 
 You can use the [editor on GitHub](https://github.com/fandt/DH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
