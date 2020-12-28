@@ -8,3 +8,6 @@ This will allow you to rate this person's pictures. Your ratings will be permane
  
 Go Back | Continue
 ------------ | -------------
+
+
+[Break into Private Vault](Index.md)
