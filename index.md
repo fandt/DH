@@ -4,8 +4,11 @@
   This will gain you access to view the contents of this person's private vault for 12 hours. You will not be able to screenshot or download any of the contents.
   <p><p>
   
- <h2> The cost for this hack is $5</h2></p>
-
+ <h2> The cost for this hack is $5</h2>
+ <p></p>
+ 
+Go Back | Continue
+------------ | -------------
 
 You can use the [editor on GitHub](https://github.com/fandt/DH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
