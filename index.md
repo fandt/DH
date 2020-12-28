@@ -1,8 +1,8 @@
 <p align="center"> _Break into Private Vault_
-  <br>
+  <p align="center">
   
   This will gain you access to view the contents of this person's private vault for 12 hours. You will not be able to screenshot or download any of the contents.
-  <br>
+  <p>
   
   _The cost for this hack is $5_</p>
 
