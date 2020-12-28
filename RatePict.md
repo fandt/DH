@@ -10,4 +10,4 @@ Go Back | Continue
 ------------ | -------------
 
 
-[Break into Private Vault](Index.md)
+[Break into Private Vault](index.md)
