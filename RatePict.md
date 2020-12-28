@@ -5,7 +5,7 @@ This will allow you to rate this person's pictures. Your ratings will be permane
 <p></p><p></p>
   
  <h2 align="center"> The cost for this hack is $1</h2>
- <p></p>
+ <p></p><br>
  
 Go Back | Continue
 ------------ | -------------
